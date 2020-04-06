@@ -1,0 +1,27 @@
+{
+  "name": "tent-house-rental-backend",
+  "version": "1.0.0",
+  "description": "Backend for Tent house rental",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.Js",
+    "Express.Js",
+    "MongoDB"
+  ],
+  "author": "Harsh Raj Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemo": "^1.0.0"
+  }
+}
